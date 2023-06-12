@@ -5333,7 +5333,8 @@ figure {
 }
 
 .cta:hover {
-    background-color: rgba(117, 251, 146, 0.8);
+    color: #fff;
+    background-color:#333;
 }
 
 .cta.secondary {
